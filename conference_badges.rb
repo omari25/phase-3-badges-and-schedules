@@ -19,5 +19,3 @@ def printer(names)
         puts "Hello, #{name}! You'll be assigned to room #{room_number}!"
     end
 end
-
-printer(["Arel", "Carol"])
